@@ -1,0 +1,39 @@
+.cor1{
+    background-color: #5a1968;
+}
+
+.texto{
+    color: #f3f3f3;
+    text-align: center;
+
+}
+
+a{
+	padding: 5px 35px;
+	display: block;
+	text-decoration: none;
+    color: #000000;
+    font-size: 16px;
+}
+
+.btn-secondary{
+    background-color: #5a1968;
+    color: #f3f3f3;
+}
+.text1{
+    color: #5a1968;
+}
+
+.btn-light{
+    background-color: #c0c0c0;
+    padding:8px 18px 8px 18px;
+}
+.btn-light:hover{
+    background-color: #a0a0a0;
+}
+.btn-light:active{
+    background-color: #a0a0a0;
+}
+.btn-light:focus{
+    background-color: #a0a0a0;
+}
